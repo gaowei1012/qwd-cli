@@ -2,7 +2,7 @@
  * @Author: mingwei
  * @Date: 2022-06-14 17:20:19
  * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 17:31:25
+ * @LastEditTime: 2022-06-14 20:34:45
  * @FilePath: /dg-cli/src/templates/features.js
  * @Description:
  */
@@ -21,8 +21,8 @@ const react = {
 
 const reactNative = {
   name: "React Native",
-  value: featuresEnum.reactRouter,
-  short: "Router",
+  value: featuresEnum.reactNative,
+  short: "ReactNative",
   description:
     "React Router is a lightweight, fully-featured routing library for the React JavaScript library",
   link: "https://reactrouter.com/",
