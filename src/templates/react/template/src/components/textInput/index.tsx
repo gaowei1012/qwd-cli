@@ -1,11 +1,3 @@
-/*
- * @Author: mingwei
- * @Date: 2022-06-14 11:22:32
- * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 11:22:33
- * @FilePath: /vite-project/src/components/TextInput/index.tsx
- * @Description:
- */
 import React from "react";
 import { Form, Input, Select } from "antd";
 

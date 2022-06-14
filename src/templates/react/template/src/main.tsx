@@ -1,11 +1,3 @@
-/*
- * @Author: mingwei
- * @Date: 2022-06-13 16:41:06
- * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 15:32:39
- * @FilePath: /vite-project/src/main.tsx
- * @Description:
- */
 import React from "react";
 import { createRoot } from "react-dom/client";
 import { StoreProvider } from "./hooks/useStore";

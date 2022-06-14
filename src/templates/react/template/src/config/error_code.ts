@@ -1,11 +1,3 @@
-/*
- * @Author: mingwei
- * @Date: 2022-06-14 10:41:07
- * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 10:41:08
- * @FilePath: /vite-project/src/config/error_code.ts
- * @Description:
- */
 export const error_code = {
   otherError: 99999, //未手动捕获的错误
   //系统错误

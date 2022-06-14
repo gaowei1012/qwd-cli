@@ -1,12 +1,3 @@
-/*
- * @Author: mingwei
- * @Date: 2022-06-14 11:45:35
- * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 14:25:03
- * @FilePath: /vite-project/src/stores/news.ts
- * @Description:
- */
-
 import { makeObservable } from "mobx";
 import { http } from "../services/http";
 import { news, login, change_password } from "../services/apis";

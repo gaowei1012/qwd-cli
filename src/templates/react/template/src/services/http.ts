@@ -1,11 +1,3 @@
-/*
- * @Author: mingwei
- * @Date: 2022-06-14 10:48:10
- * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 14:24:40
- * @FilePath: /vite-project/src/services/http.ts
- * @Description:
- */
 import { service } from "./axios";
 
 const http = {

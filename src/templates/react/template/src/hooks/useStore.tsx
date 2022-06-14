@@ -1,11 +1,3 @@
-/*
- * @Author: mingwei
- * @Date: 2022-06-14 11:43:17
- * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 11:43:17
- * @FilePath: /vite-project/src/hooks/useStore.tsx
- * @Description:
- */
 import React from "react";
 import { useLocalObservable } from "mobx-react-lite";
 import { rootStore, RootStoreInterface } from "../stores/index";

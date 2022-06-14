@@ -1,12 +1,3 @@
-/*
- * @Author: mingwei
- * @Date: 2022-06-13 21:06:42
- * @LastEditors: mingwei
- * @LastEditTime: 2022-06-14 15:57:20
- * @FilePath: /vite-project/src/services/axios.ts
- * @Description:
- */
-
 import axios, { AxiosError, AxiosResponse, AxiosRequestConfig } from "axios";
 import { error_code } from "../config";
 import { DOMAIN_URL } from "./domain";
