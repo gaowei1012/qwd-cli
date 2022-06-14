@@ -1,0 +1,45 @@
+{
+  "name": "dg-cli",
+  "version": "v0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dg": "./bin/dg.js"
+  },
+  "keywords": [
+    "cli",
+    "typescrit",
+    "reactnative",
+    "scss",
+    "react"
+  ],
+  "author": "执念",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^8.3.0",
+    "deepmerge": "^4.2.2",
+    "execa": "^5.1.0",
+    "fs-extra": "^10.0.0",
+    "globby": "^10.0.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.0",
+    "is-binary-path": "^2.1.0",
+    "minimist": "^1.2.5",
+    "semver": "^7.3.5",
+    "validate-npm-package-name": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.16.5",
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb": "^19.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "prettier": "^2.5.1"
+  }
+}
