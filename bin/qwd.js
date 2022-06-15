@@ -12,16 +12,16 @@ const { log } = console;
 
 // 定义当前版本
 program.version(
-  `pri: ${version}`,
+  `qwd: ${version}`,
   "-v, --version",
-  "output the current prix version"
+  "output the current qwd -version"
 );
 
 // 定义创建项目的create命令
 program
   .command("create <app-name>")
   .alias("c")
-  .description("Create a new pri project.")
+  .description("Create a new qwd project.")
   .option("-f, --force", "Overwrite target directory if it exists")
   .action((name, options) => {
     if (minimist(process.argv.slice(3))._.length > 1) {

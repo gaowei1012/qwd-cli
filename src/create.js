@@ -93,7 +93,7 @@ const handleInvalidName = (result, name) => {
 };
 
 /**
- * @description 创建pri 项目
+ * @description 创建项目
  * @param {string} projectName
  * @param {{[p:string]:string}} options
  */
