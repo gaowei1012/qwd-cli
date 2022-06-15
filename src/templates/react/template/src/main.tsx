@@ -8,6 +8,7 @@ import "./styles/global.scss";
 const rootElement: any = document.getElementById("root");
 const root = createRoot(rootElement);
 
+// 解决useEffect二次加载问题
 root.render(
   <StoreProvider>
     <Global children={<App />} />
