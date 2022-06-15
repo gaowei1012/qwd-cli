@@ -1,6 +1,6 @@
 {
   "name": "qwd-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "关于React、ReactNative自定义脚手架",
   "main": "index.js",
   "scripts": {

@@ -8,7 +8,6 @@ export const Global: React.FC<{ children: React.ReactElement }> = observer(
   ({ children }) => {
     const { loadingInstance } = useStore();
     const spinIcon = <LoadingOutlined />;
-    console.log("global", loadingInstance.loading);
     return (
       <Spin
         tip="加载中..."
