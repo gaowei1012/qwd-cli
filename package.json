@@ -1,5 +1,5 @@
 {
-  "name": "dg-cli",
+  "name": "qwd-cli",
   "version": "1.0.0",
   "description": "关于React、ReactNative自定义脚手架",
   "main": "index.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaowei1012/dg-cli.git"
+    "url": "https://github.com/gaowei1012/qwd-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/gaowei1012/dg-cli/issues"
+    "url": "https://github.com/gaowei1012/qwd-cli/issues"
   },
-  "homepage": "https://github.com/gaowei1012/dg-cli",
+  "homepage": "https://github.com/gaowei1012/qwd-cli",
   "keywords": [
     "cli",
     "typescrit",
