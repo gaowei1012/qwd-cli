@@ -1,6 +1,6 @@
 {
   "name": "qwd-cli",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "快速创建项目脚手架",
   "main": "index.js",
   "author": "执念",
