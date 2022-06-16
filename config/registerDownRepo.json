@@ -1,0 +1,6 @@
+{
+  "antd-form-block": {
+    "name": "antd-form-block",
+    "downUrl": "direct:https://github.com/gaowei1012/block.git#antd-form-block"
+  }
+}
