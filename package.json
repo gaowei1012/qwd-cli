@@ -1,17 +1,28 @@
 {
   "name": "qwd-cli",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.2.0",
+  "description": "快速创建项目脚手架",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "执念",
+  "license": "MIT",
   "bin": {
     "qwd": "./src/index.ts"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaowei1012/qwd-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaowei1012/qwd-cli/issues"
+  },
+  "homepage": "https://github.com/gaowei1012/qwd-cli",
+  "keywords": [
+    "cli",
+    "typescrit",
+    "reactnative",
+    "scss",
+    "react"
+  ],
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^8.1.0",
