@@ -2,7 +2,7 @@
  * @Author: mingwei
  * @Date: 2022-06-16 16:51:04
  * @LastEditors: mingwei
- * @LastEditTime: 2022-06-17 10:45:41
+ * @LastEditTime: 2022-06-17 13:02:30
  * @FilePath: /dg-cli/README.md
  * @Description:
 -->
@@ -13,10 +13,10 @@
 
 - 使用 `antd-admin` 创建脚项目
 - 使用移动端 `react native` 快速创建项目
+- 开发区块，添加常见业务区块
 
 > 计划功能
 
-- 开发区块，添加常见业务区块
 - 添加快速开发小程序（h5）项目架构
 
 ### 安装
