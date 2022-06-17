@@ -2,7 +2,7 @@
  * @Author: mingwei
  * @Date: 2022-06-16 16:51:04
  * @LastEditors: mingwei
- * @LastEditTime: 2022-06-17 07:14:18
+ * @LastEditTime: 2022-06-17 10:45:41
  * @FilePath: /dg-cli/README.md
  * @Description:
 -->
@@ -42,9 +42,24 @@
   react-native-template
 ```
 
+### 创建区块
+
+```shell
+  qwd block
+
+  # 在项目下对应位置，选择区块
+  ? 请选择所创建区块! (Use arrow keys)
+  ❯ antd-form-block
+  antd-modal-block
+
+```
+
 ### 使用 `npx` 创建项目
 
 ```shell
   # 或者使用npx,前提是你的node要比较新
   npx qwd-cli create
+
+  # 在项目下对应位置，选择区块
+  npx qwd-cli block
 ```
