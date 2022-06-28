@@ -2,13 +2,13 @@
  * @Author: mingwei
  * @Date: 2022-03-24 16:20:56
  * @LastEditors: mingwei
- * @LastEditTime: 2022-03-31 13:40:21
- * @FilePath: /yl-app/frontend/src/common/styles/topNavigationBar.ts
+ * @LastEditTime: 2022-06-28 09:53:30
+ * @FilePath: /dg-cli/template/react-native-template/src/common/styles/topNavigationBar.ts
  * @Description:
  */
 import { StyleSheet } from 'react-native';
 import { nav_bar_h } from '@/config/statusBarHeight';
-import { px2dp, width } from '@/common';
+import { px2dp, width } from 'react-native-dev-sdk';
 
 const styles = StyleSheet.create({
   navBar: {

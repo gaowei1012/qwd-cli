@@ -2,12 +2,12 @@
  * @Author: mingwei
  * @Date: 2022-03-24 16:20:56
  * @LastEditors: mingwei
- * @LastEditTime: 2022-03-31 17:55:25
- * @FilePath: /yl-app/frontend/src/common/styles/goback.ts
+ * @LastEditTime: 2022-06-28 09:53:10
+ * @FilePath: /dg-cli/template/react-native-template/src/common/styles/goback.ts
  * @Description:
  */
 import { StyleSheet } from 'react-native';
-import { px2dp } from '@/common/utils';
+import { px2dp } from 'react-native-dev-sdk';
 
 const styles = StyleSheet.create({
   backWrap: {

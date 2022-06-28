@@ -34,6 +34,7 @@
         "react-native-bouncy-checkbox": "^2.1.10",
         "react-native-bouncy-checkbox-group": "^0.1.0",
         "react-native-config": "^1.4.5",
+        "react-native-dev-sdk": "^1.1.1",
         "react-native-elements": "^3.4.2",
         "react-native-gesture-handler": "^1.10.3",
         "react-native-image-picker": "^4.7.3",

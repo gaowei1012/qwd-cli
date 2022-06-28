@@ -1,13 +1,13 @@
 /*
  * @Author: weiqi
  * @Date: 2022-02-22 16:20:44
- * @LastEditors: weiqi
- * @LastEditTime: 2022-02-22 16:27:50
+ * @LastEditors: mingwei
+ * @LastEditTime: 2022-06-28 09:53:23
  * @Description: file content
- * @FilePath: /yl-mobile/frontend/src/common/styles/pagination.ts
+ * @FilePath: /dg-cli/template/react-native-template/src/common/styles/pagination.ts
  */
 import { StyleSheet } from 'react-native';
-import { px2dp } from '@/common/utils';
+import { px2dp } from 'react-native-dev-sdk';
 
 export const paginationComponentStyles = StyleSheet.create({
   topLoadingWrap: {

@@ -1,15 +1,15 @@
 /*
  * @Author: weiqi
  * @Date: 2022-02-22 17:49:06
- * @LastEditors: weiqi
- * @LastEditTime: 2022-02-22 17:50:22
+ * @LastEditors: mingwei
+ * @LastEditTime: 2022-06-28 09:52:59
  * @Description: file content
- * @FilePath: /yl-mobile/frontend/src/common/styles/button.ts
+ * @FilePath: /dg-cli/template/react-native-template/src/common/styles/button.ts
  */
-import { px2dp } from '../';
 import { StyleSheet } from 'react-native';
 import globalStyles from '@/config/global';
 import DEFAULT_STYLES from '@/config/default';
+import { px2dp } from 'react-native-dev-sdk';
 const { flexCenter, alignSelfCenter } = globalStyles;
 const { DEFAULT_BTN_TEXT_COLOR, DEFAULT_BTN_BG_COLOR } = DEFAULT_STYLES;
 

@@ -2,13 +2,13 @@
  * @Author: mingwei
  * @Date: 2022-04-25 09:23:45
  * @LastEditors: mingwei
- * @LastEditTime: 2022-04-25 09:44:48
- * @FilePath: /yl-app/frontend/src/common/styles/empty.ts
+ * @LastEditTime: 2022-06-28 09:53:05
+ * @FilePath: /dg-cli/template/react-native-template/src/common/styles/empty.ts
  * @Description:
  */
 
 import { StyleSheet } from 'react-native';
-import { px2dp } from '../utils';
+import { px2dp } from 'react-native-dev-sdk';
 
 const styles = StyleSheet.create({
   emptyContainer: {
