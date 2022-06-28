@@ -1,12 +1,11 @@
-import { NewsStore } from "./news";
-import { LoadingStore } from "./loading";
+import {LoadingStore} from './loading';
+import {LayoutStore} from './layout/index';
 
 export type RootStoreInterface = {
-  loadingInstance: LoadingStore;
-  newInstance: NewsStore;
+  layoutInstance: LayoutStore;
 };
 
 export const rootStore = {
   loadingInstance: new LoadingStore(),
-  newInstance: new NewsStore(),
+  layoutInstance: new LayoutStore(),
 };
