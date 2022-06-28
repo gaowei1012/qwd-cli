@@ -1,6 +1,7 @@
 import React from 'react';
 import Login from '@/pages/users/login';
 import Register from '@/pages/users/register';
+import Dashboard from '@/pages/dashboard';
 
 type defaultViewRoutesType = {
   path: string;
@@ -21,6 +22,13 @@ const routes: Array<defaultViewRoutesType> = [
   {
     path: '/register',
     element: <Register />,
+    header: false,
+    sider: false,
+    footer: false,
+  },
+  {
+    path: '/dashboard',
+    element: <Dashboard />,
     header: false,
     sider: false,
     footer: false,
